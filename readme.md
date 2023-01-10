@@ -68,6 +68,9 @@ $ start index.html
 - [Título/nome do site](link) - texto texto texto.
 
 <br /><br />
+
+[Documentação original](https://docs.google.com/document/d/1q_CSnzEU7m7zwGWEPDx-8hw-vOB9fpQdgCnu_hnEq70/edit#)
+
 <br /><br />
 
 ## <b id="autores">Autores</b>
