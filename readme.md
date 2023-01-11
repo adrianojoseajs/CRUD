@@ -39,6 +39,9 @@
 
 ### <b id="screenshot">Screenshot</b>
 
+![image](https://user-images.githubusercontent.com/74797618/211897124-55e21c5f-943b-4ec6-86e5-c46b04cf821f.png)
+
+
 ### <b id="built-with">Desenvolvido com</b>
 - HTML: Usado para fazer a marcação do documento.
 - CSS: Criar uma interface mais agradável.
@@ -46,6 +49,8 @@
 
 ### <b id="links">Links</b>
 - URL: [Repositório](https://crudadrianoallyne.netlify.app/)
+- URL: [Protótipo](https://www.figma.com/file/9QzA3Pi5Scy9ALEmq2D2gA/CRUD?node-id=0%3A1&t=2Zj6zv1S5Xv38MzH-1)
+- URL: [Documentação](https://docs.google.com/document/d/1q_CSnzEU7m7zwGWEPDx-8hw-vOB9fpQdgCnu_hnEq70/edit#)
 
 ## <b id="how-to-use">Como usar</b>
 
@@ -68,8 +73,6 @@ $ start index.html
 - [Título/nome do site](link) - texto texto texto.
 
 <br /><br />
-
-[Documentação original](https://docs.google.com/document/d/1q_CSnzEU7m7zwGWEPDx-8hw-vOB9fpQdgCnu_hnEq70/edit#)
 
 <br /><br />
 
