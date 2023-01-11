@@ -45,7 +45,7 @@
 - JS: Realizar todas as ações do CRUD.
 
 ### <b id="links">Links</b>
-- URL: [Repositório](https://crud.netlify.app/)
+- URL: [Repositório](https://crudadrianoallyne.netlify.app/)
 
 ## <b id="how-to-use">Como usar</b>
 
