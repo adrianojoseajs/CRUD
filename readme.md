@@ -77,34 +77,34 @@ $ start index.html
 <br /><br />
 
 ## <b id="autores">Autores</b>
-<div sytle="display: inline-block;">
-  <div align="center">
-    <figure>
+
+<div align="center">
+
+  <div>
+    <div>
+      <figure>
         <a href="https://github.com/adrianojoseajs" target="_blank">
-            <img style="border-radius: 100%" src="https://avatars.githubusercontent.com/u/74797618?s=96&v=4" width="100px" alt="Adriano José"> <br />
+          <img style="border-radius: 100%" src="https://avatars.githubusercontent.com/u/74797618?s=96&v=4" width="100px" alt="Adriano José"> <br />
             <sub style="text-align: center; font-size: 1.8em;"><b>Adriano José</b></sub>
         </a>
-    </figure>
-    <!--    <div align="start">
-        <a href="https://www.linkedin.com/in/adrianojoseajs/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-    </div> -->
-  </div>
-</div>
-
-<div sytle="display: inline-block;">
- <div align="center">
-<figure>
-        <a href="https://github.com/allynemma" target="_blank">
-            <img style="border-radius: 100%" src="https://avatars.githubusercontent.com/u/116766047?s=400&u=9eab7944a388e6bacb743512c6c6daaaccd8e4ad&v=4" width="100px" alt="Allyne Alves"> <br />
-            <sub style="text-align: center; font-size: 1.8em;"><b>Allyne Alves</b></sub>
-        </a>
-    </figure>
+      </figure>
     </div>
+  </div>
+
+  <div>
+   <div>
+    <figure>
+      <a href="https://github.com/allynemma" target="_blank">
+        <img style="border-radius: 100%" src="https://avatars.githubusercontent.com/u/116766047?s=400&u=9eab7944a388e6bacb743512c6c6daaaccd8e4ad&v=4" width="100px" alt="Allyne Alves"> <br />
+          <sub style="text-align: center; font-size: 1.8em;"><b>Allyne Alves</b></sub>
+        </a>
+      </figure>
+    </div>
+  </div>
+
 </div>
 
-### LinkedIn dos autores
+### <b>LinkedIn dos Autores</b>
 - Adriano José:
       <div align="start">
         <a href="https://www.linkedin.com/in/adrianojoseajs/" target="_blank">
