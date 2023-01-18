@@ -134,3 +134,25 @@ form {
     border: 1px solid #36D000;
     color: #36D000;
 }
+
+footer {
+  display: inline;
+  font-size: 18px;
+  background-color: #243763;
+  height: 50px;
+  position: fixed;
+  width: 100%;
+  color: #efefef;
+  bottom: 0;
+  padding-left: 10px;
+}
+
+.linkedin{
+  color: #efefef;
+}
+.linkedin:visited{
+  color: #C5C7C5;
+}
+.linkedin:hover{
+  background-color: #182441;
+}
