@@ -39,13 +39,18 @@
 
 ### <b id="screenshot">Screenshot</b>
 
+![image](https://user-images.githubusercontent.com/74797618/211897124-55e21c5f-943b-4ec6-86e5-c46b04cf821f.png)
+
+
 ### <b id="built-with">Desenvolvido com</b>
 - HTML: Usado para fazer a marcação do documento.
 - CSS: Criar uma interface mais agradável.
 - JS: Realizar todas as ações do CRUD.
 
 ### <b id="links">Links</b>
-- URL: [Repositório](https://crud.netlify.app/)
+- URL: [Repositório](https://crudadrianoallyne.netlify.app/)
+- URL: [Protótipo](https://www.figma.com/file/9QzA3Pi5Scy9ALEmq2D2gA/CRUD?node-id=0%3A1&t=2Zj6zv1S5Xv38MzH-1)
+- URL: [Documentação](https://docs.google.com/document/d/1q_CSnzEU7m7zwGWEPDx-8hw-vOB9fpQdgCnu_hnEq70/edit#)
 
 ## <b id="how-to-use">Como usar</b>
 
@@ -69,39 +74,37 @@ $ start index.html
 
 <br /><br />
 
-[Documentação original](https://docs.google.com/document/d/1q_CSnzEU7m7zwGWEPDx-8hw-vOB9fpQdgCnu_hnEq70/edit#)
-
 <br /><br />
 
 ## <b id="autores">Autores</b>
-<div sytle="display: inline-block;">
-  <div align="center">
-    <figure>
+
+<div align="center">
+
+  <div>
+    <div>
+      <figure>
         <a href="https://github.com/adrianojoseajs" target="_blank">
-            <img style="border-radius: 100%" src="https://avatars.githubusercontent.com/u/74797618?s=96&v=4" width="100px" alt="Adriano José"> <br />
+          <img style="border-radius: 100%" src="https://avatars.githubusercontent.com/u/74797618?s=96&v=4" width="100px" alt="Adriano José"> <br />
             <sub style="text-align: center; font-size: 1.8em;"><b>Adriano José</b></sub>
         </a>
-    </figure>
-    <!--    <div align="start">
-        <a href="https://www.linkedin.com/in/adrianojoseajs/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a>
-    </div> -->
-  </div>
-</div>
-
-<div sytle="display: inline-block;">
- <div align="center">
-<figure>
-        <a href="https://github.com/allynemma" target="_blank">
-            <img style="border-radius: 100%" src="https://avatars.githubusercontent.com/u/116766047?s=400&u=9eab7944a388e6bacb743512c6c6daaaccd8e4ad&v=4" width="100px" alt="Allyne Alves"> <br />
-            <sub style="text-align: center; font-size: 1.8em;"><b>Allyne Alves</b></sub>
-        </a>
-    </figure>
+      </figure>
     </div>
+  </div>
+
+  <div>
+   <div>
+    <figure>
+      <a href="https://github.com/allynemma" target="_blank">
+        <img style="border-radius: 100%" src="https://avatars.githubusercontent.com/u/116766047?s=400&u=9eab7944a388e6bacb743512c6c6daaaccd8e4ad&v=4" width="100px" alt="Allyne Alves"> <br />
+          <sub style="text-align: center; font-size: 1.8em;"><b>Allyne Alves</b></sub>
+        </a>
+      </figure>
+    </div>
+  </div>
+
 </div>
 
-### LinkedIn dos autores
+### <b>LinkedIn dos Autores</b>
 - Adriano José:
       <div align="start">
         <a href="https://www.linkedin.com/in/adrianojoseajs/" target="_blank">
