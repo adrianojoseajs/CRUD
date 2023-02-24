@@ -135,6 +135,7 @@ form {
     color: #36D000;
 }
 
+<<<<<<< HEAD
 .table {
   width: 100%;
   border-collapse: collapse;
@@ -173,3 +174,26 @@ form {
   padding: 5px 10px;
   cursor: pointer;
 }
+=======
+footer {
+  display: inline;
+  font-size: 18px;
+  background-color: #243763;
+  height: 50px;
+  position: fixed;
+  width: 100%;
+  color: #efefef;
+  bottom: 0;
+  padding-left: 10px;
+}
+
+.linkedin{
+  color: #efefef;
+}
+.linkedin:visited{
+  color: #C5C7C5;
+}
+.linkedin:hover{
+  background-color: #182441;
+}
+>>>>>>> 29dee836d8b8b671dc2c25b25573d7cbd6751dd8
