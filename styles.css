@@ -97,49 +97,57 @@ body {
   }
 }
 
-
 form {
     box-sizing: border-box;
     position: relative;
     display: flex;
 
-    height: 295px;
-    width: 1338px;
+    height: 200px;
+    width: auto;
+    margin: 20px;
     align-items: center;
     background: #FFEBB7;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
 }
 
+.input_space {
+      display: flex;
+			justify-content: center;
+}
+
 .entradaDeDados{
+    display: inline-block;
+		width: 180px;
+
     box-sizing: border-box;
+    height: 40px;
     position: relative;
     border: none;
-    margin-left: 40px;
-    margin-right: 180px;
     border-radius: 10px;
     color: #000;
 }
 
-#salvar{
+.btn_salvar{
     box-sizing: border-box;
     position: absolute;
 
-    width: 256px;
+    width:180px;
     height: 45px;
     left: 572px;
     top: 75%;
 
+    font-size: large;
     background: #FFFFFF;
     border: 1px solid #36D000;
     color: #36D000;
+    cursor: pointer;
 }
 
-<<<<<<< HEAD
 .table {
-  width: 100%;
+  width: 97%;
   border-collapse: collapse;
-  margin-bottom: 20px;
+  margin: 20px;
 }
 
 .table thead {
@@ -174,12 +182,12 @@ form {
   padding: 5px 10px;
   cursor: pointer;
 }
-=======
+
 footer {
   display: inline;
-  font-size: 18px;
+  font-size: 10px;
   background-color: #243763;
-  height: 50px;
+  height: 30px;
   position: fixed;
   width: 100%;
   color: #efefef;
@@ -196,4 +204,3 @@ footer {
 .linkedin:hover{
   background-color: #182441;
 }
->>>>>>> 29dee836d8b8b671dc2c25b25573d7cbd6751dd8
