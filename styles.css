@@ -112,14 +112,20 @@ form {
 }
 
 .input_space {
-      display: flex;
-			justify-content: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 .entradaDeDados{
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+
     display: inline-block;
 		width: 180px;
-
     box-sizing: border-box;
     height: 40px;
     position: relative;
