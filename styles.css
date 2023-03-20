@@ -97,49 +97,103 @@ body {
   }
 }
 
-
 form {
     box-sizing: border-box;
     position: relative;
     display: flex;
-    
-    height: 295px;
-    width: 1338px;
+
+    height: 200px;
+    width: auto;
+    margin: 20px;
     align-items: center;
     background: #FFEBB7;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
 }
 
+.input_space {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
 .entradaDeDados{
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+
+    display: inline-block;
+		width: 180px;
     box-sizing: border-box;
+    height: 40px;
     position: relative;
     border: none;
-    margin-left: 40px;
-    margin-right: 180px;
     border-radius: 10px;
     color: #000;
 }
 
-#salvar{
+.btn_salvar{
     box-sizing: border-box;
     position: absolute;
 
-    width: 256px;
+    width:180px;
     height: 45px;
     left: 572px;
     top: 75%;
 
+    font-size: large;
     background: #FFFFFF;
     border: 1px solid #36D000;
     color: #36D000;
+    cursor: pointer;
+}
+
+.table {
+  width: 97%;
+  border-collapse: collapse;
+  margin: 20px;
+}
+
+.table thead {
+  background-color: #243763;
+  color: #fff;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.table tbody tr:nth-child(even) {
+  background-color: #f0f0f0;
+}
+
+.btn-editar {
+  background-color: yellow;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.btn-excluir {
+  background-color: red;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
 }
 
 footer {
   display: inline;
-  font-size: 18px;
+  font-size: 10px;
   background-color: #243763;
-  height: 50px;
+  height: 30px;
   position: fixed;
   width: 100%;
   color: #efefef;

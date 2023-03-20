@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-   <head>
+    <head>
       <link rel="stylesheet" href="styles.css">
 
       <title>CRUD</title>
 
-       <header>
+        <header>
         <nav class="nav">
         <input type="checkbox" id="nav-check">
         <div class="nav-header">
@@ -32,17 +32,72 @@
    </head>
 
    <body>
-    <form>
-      <input type="text" class="entradaDeDados" name="nome" placeholder="Nome">
-      <input type="email" class="entradaDeDados" name="email" placeholder="E-mail">
-      <input type="tel" class="entradaDeDados" name="telefone" placeholder="Telefone">
-      <input type="submit" id="salvar" value="Salvar">
-    </form>
-    <main>
 
-    </main>
+    <form class="form">
+      <div class="input_space">
+        <input type="text" class="entradaDeDados" name="nome" placeholder="Nome"></input>
+        <input type="email" class="entradaDeDados" name="email" placeholder="E-mail"></input>
+        <input type="tel" class="entradaDeDados" name="telefone" placeholder="Telefone"></input>
+      </div>
+      <div class="btn_space">
+        <button type="submit" class="btn_salvar">Salvar</button>
+      </div>
+    </form>
+
+		<table class="table">
+  <thead>
+    <tr>
+      <th>Nome:</th>
+      <th>Email:</th>
+      <th>Telefone:</th>
+      <th>Ações</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Adriano</td>
+      <td>adriano@email.com</td>
+      <td>1234-5678</td>
+      <td>
+        <button class="btn-editar">Editar</button>
+        <button class="btn-excluir">Excluir</button>
+      </td>
+    </tr>
+    <tr>
+      <td>José</td>
+      <td>jose@email.com</td>
+      <td>1234-5678</td>
+      <td>
+        <button class="btn-editar">Editar</button>
+        <button class="btn-excluir">Excluir</button>
+      </td>
+    </tr>
+    <tr>
+      <td>Allyne</td>
+      <td>allyne@email.com</td>
+      <td>1234-5678</td>
+      <td>
+        <button class="btn-editar">Editar</button>
+        <button class="btn-excluir">Excluir</button>
+      </td>
+    </tr>
+        <tr>
+      <td>Alves</td>
+      <td>alves@email.com</td>
+      <td>1234-5678</td>
+      <td>
+        <button class="btn-editar">Editar</button>
+        <button class="btn-excluir">Excluir</button>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
     <footer>
-      <h3>Desenvolvido por: <a href="https://www.linkedin.com/in/adrianojoseajs/" class="linkedin">Adriano José</a> e <a href="https://www.linkedin.com/in/allynealves/" class="linkedin">Allyne Alves</a></h3>
+      <h3>Desenvolvido por:
+        <a href="https://www.linkedin.com/in/adrianojosez/" class="linkedin">Adriano José</a> e
+        <a href="https://www.linkedin.com/in/allynealves/" class="linkedin">Allyne Alves</a>
+      </h3>
     </footer>
    </body>
 
