@@ -210,3 +210,27 @@ footer {
 .linkedin:hover{
   background-color: #182441;
 }
+
+html::-webkit-scrollbar {
+  width: 10px;
+}
+
+html::-webkit-scrollbar-track {
+  background: white;
+  border-radius: 0px;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #FFEBB7;
+  border-radius: 30px;
+}
+
+html::-webkit-scrollbar-thumb:hover {
+  background: #FFEBB7;
+  border-radius: 30px;
+}
+
+html::-webkit-scrollbar-thumb:active {
+  background: #FFEBB7;
+  border-radius: 30px;
+}
